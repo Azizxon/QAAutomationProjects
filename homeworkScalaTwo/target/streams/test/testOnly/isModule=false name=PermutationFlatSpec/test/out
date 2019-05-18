@@ -1,0 +1,13 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mPermutationFlatSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mMy permutation func[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should work right for empty list[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mMy permutation func[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should work right with same elements in list[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mMy permutation func[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should work right with repetitive elements in list[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mMy permutation func[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should work same with system permutation func[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mMy permutation func[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be equal with unordered List[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mMy permutation func result[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be not same with the wrong list[0m[0m
